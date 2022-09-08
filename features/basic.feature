@@ -1,7 +1,11 @@
-Feature: Business rules
-  In order to achieve my goals
-  As a persona
-  I want to be able to interact with a system
+Feature: Assignment
+  Click Display a Toast button and verify message
+  Uncheck on I accept adds checkbox
+  Register a user
 
-  Scenario: do something
-    Given I have a defined step
+  Scenario: Task1
+    Given Click Display a Toast button and verify message
+ Scenario: Task2
+    Given Uncheck on I accept adds checkbox
+  Scenario: Task3
+    Given Register a user
